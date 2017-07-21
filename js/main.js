@@ -1,7 +1,7 @@
 var index = 0;
 var carousel = document.getElementsByClassName("images");
 
-setInterval(before,3500);
+setInterval(slider,3500);
 
 function slider () {
 carousel[index].style.zIndex = -1;
