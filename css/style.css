@@ -13,3 +13,17 @@
   position: absolute;
   margin-left: 30%;
 }
+
+.nav {
+  position: absolute;
+top: 95%;
+left: 45%;
+}
+
+button {
+  background-color: white;
+  border: 2px solid #01B0CF;
+  border-radius: 3px;
+  height: 35px;
+  width: 60px;
+}
